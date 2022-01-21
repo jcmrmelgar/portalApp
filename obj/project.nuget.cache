@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TExOU7nMIlgk5JC48afILhY4NKhsfGHA3mo9RuhTS0cAIRSS1/f43ss6RNEwDZoBw69KDJHzwd05TrgNn8peHQ==",
+  "success": true,
+  "projectFilePath": "/Users/cesarmelgar/Projects/portalApp/portalApp/portalApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/cesarmelgar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
